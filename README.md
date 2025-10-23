@@ -1,2 +1,2 @@
 # csharp-tutorial
-csharp tutorial hands on learning program test
+A public repository used by kramz on learning csharp by doing hands-on and program test.
