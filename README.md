@@ -1,2 +1,2 @@
 # csharp-tutorial
-A public repository used by kramz on learning csharp by doing hands-on and program test.
+14 Days of csharp coding exercises to supplement reading docs and watching tutorial.
